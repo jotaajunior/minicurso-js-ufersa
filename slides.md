@@ -4,10 +4,33 @@ theme: apple-basic
 colorSchema: "light"
 ---
 
-# Slidev
+# JavaScript de A-Z
 
-Hello World
+<br>
+<br>
+<br>
+Jota Júnior<br>
+Mikéias Azevedo
 
+---
+
+# Sobre nós
+
+<br>
+
+## Mikéias Azevedo
+> CC / UFERSA <br>
+> Backend Invillia / IFood
+
+---
+
+# Agenda
+
+1. JavaScript, é tipo Java?
+2. Fundamentos: Sintaxe e recursos
+3. Node
+4. React
+5. Prática: Urna eletrônica online
 ---
 
 # Page 2
