@@ -47,10 +47,38 @@ console.log(Infinity === Infinity);
 
 // Operadores aritméticos
 // + Adição
+const a = 4;
+console.log(10 + 3)
+console.log(11 + 13 + a)
+
 // - Subtração
+console.log(10 - 3)
+console.log(11 - 13 - a)
+
 // * Multiplicação
+console.log(10 * 3)
+console.log(11 * 13 * a)
+
 // / Divisão
+console.log(10 / 3)
+console.log(20 / a)
+
 // ** Potenciação
+console.log(2 ** 3)
+console.log(3 ** a)
+
 // % Resto da divisão
+console.log(25 % 5)
+console.log(10 % 3)
+
 // ++ Incremento
+let j = 1;
+j++;
+j++;
+
+console.log(j)
 // -- Decremento
+let k = 10;
+k--;
+k--;
+console.log(k)
