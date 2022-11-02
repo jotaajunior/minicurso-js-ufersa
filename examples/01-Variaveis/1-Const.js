@@ -1,5 +1,13 @@
 // Const
 // Sempre que for declarar uma variável que não vai mudar, use const!
+const nome = 'Jorge';
+// nome = 'Carlos';
+console.log(nome)
+
+const ano = 2022;
+// ano++;
+
+// Atributos de objetos podem mudar
 const pessoa = {
   nome: 'Elon Musk',
   idade: 51,

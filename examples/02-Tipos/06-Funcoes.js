@@ -36,3 +36,22 @@ function divisaoSegura(a, b) {
 }
 
 // Arrow functions são mais limitadas que funções comuns
+
+// Rest operator
+function max(...nums) {
+  let value = nums[0];
+  
+  for(let i = 0; i < nums.length; i++) {
+    if(nums[i] > value) value = nums[i];
+  }
+  
+  return value;
+}
+
+console.log(max(1, 2, 3))
+
+function multiplica(multiplicador, ...array) {
+  return array.map(i => i * multiplicador);
+}
+
+console.log(multiplica(10, 1, 2, 3))

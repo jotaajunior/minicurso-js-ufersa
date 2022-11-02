@@ -1,5 +1,13 @@
 // Let
 // São iguais a const, mas permitem reatribuição
+let ddd = '084';
+console.log('DDD atual: ' + ddd)
+
+// Reatribuição
+ddd = '083';
+console.log('DDD novo: ' + ddd)
+
+// Objetos
 let pessoa = {
   nome: 'Elon Musk',
   idade: 51,
