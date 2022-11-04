@@ -28,20 +28,18 @@ Mikéias Azevedo
 
 1. JavaScript, é tipo Java?
 2. Fundamentos: Sintaxe e recursos
-3. Node
-4. React
-5. Prática: Urna eletrônica online
+3. Quem usa?
+4. Prática: Urna eletrônica online
 ---
 
-# Page 2
+# Quem usa?
 
-Directly use code blocks for highlighting
+- Facebook
+- Google
+- Microsoft
+- PayPal
+- Linkedin
 
-```ts
-const x = 1;
-
-console.log("Hello, World!");
-```
 
 ---
 
