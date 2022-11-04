@@ -106,6 +106,10 @@ export const configRoutes = (app) => {
       percentual: shouldPercentageOrZero((votes[BRANCOS] / total) * 100),
     });
 
-    return reply.send(result);
+    return reply.send({
+      result,
+      total,
+      totalValidos
+    });
   });
 };
