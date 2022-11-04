@@ -47,7 +47,6 @@ layout: two-cols
 > FCamara / Dr Consulta
 > Take Blip
 > C#, JavaScript, Java
-> email
 
 </template>
 
